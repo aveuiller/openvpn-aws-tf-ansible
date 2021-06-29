@@ -1,6 +1,10 @@
 ### Terraform
 .terraform
 terraform.tfstate*
+*.lock.hcl
+
+# Data dir
+data/*
 
 ### Ansible
 *.retry

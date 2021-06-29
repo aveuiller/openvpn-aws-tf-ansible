@@ -1,0 +1,3 @@
+[submodule "wireguard"]
+	path = wireguard
+	url = git@github.com:namm2/wireguard.git
